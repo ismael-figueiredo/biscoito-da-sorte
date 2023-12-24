@@ -1,4 +1,4 @@
-
+// váriaveis
 const page1 = document.querySelector(".page-1")
 const page2 = document.querySelector(".page-2")
 const button = document.querySelector("#open-new")
