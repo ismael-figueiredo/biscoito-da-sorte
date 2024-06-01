@@ -2,11 +2,11 @@
 
 ## Descrição
 
-Este projeto, um encantador aplicativo web "Biscoito da Sorte", é um desafio do curso de programação da [Rocketseat](https://www.rocketseat.com.br/), focado no módulo de JavaScript Avançado. A aplicação simula a experiência de abrir um biscoito da sorte. Ao passar o mouse sobre a imagem do biscoito, ele vibra para adicionar interatividade. Clicando no biscoito, ele se "abre", revelando uma mensagem surpresa. O projeto foi desenvolvido usando HTML, CSS e JavaScript.
+Este projeto, um encantador aplicativo web "Biscoito da Sorte", é um desafio do curso de programação da [Rocketseat ](https://www.rocketseat.com.br/), focado no módulo de JavaScript Avançado. A aplicação simula a experiência de abrir um biscoito da sorte. Ao passar o mouse sobre a imagem do biscoito, ele vibra para adicionar interatividade. Clicando no biscoito, ele se "abre", revelando uma mensagem surpresa. O projeto foi desenvolvido usando HTML, CSS e JavaScript.
 
 ## Demonstração
 
-Veja o projeto em ação aqui: [Biscoito da Sorte]([https://ismaelfigueiredo.com/biscoitodasorte/](https://ismael-figueiredo.github.io/biscoito-da-sorte/))
+Veja o projeto em ação aqui: [Biscoito da Sorte](https://ismael-figueiredo.github.io/biscoito-da-sorte/)
 <p  align="center">
 
 <img  alt="gif da aplicação Biscoito da sorte"  src=".github/preview.gif"  width="100%">
