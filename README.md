@@ -6,7 +6,7 @@ Este projeto, um encantador aplicativo web "Biscoito da Sorte", é um desafio do
 
 ## Demonstração
 
-Veja o projeto em ação aqui: [Biscoito da Sorte](https://ismaelfigueiredo.com/biscoitodasorte/)
+Veja o projeto em ação aqui: [Biscoito da Sorte]([https://ismaelfigueiredo.com/biscoitodasorte/](https://ismael-figueiredo.github.io/biscoito-da-sorte/))
 <p  align="center">
 
 <img  alt="gif da aplicação Biscoito da sorte"  src=".github/preview.gif"  width="100%">
